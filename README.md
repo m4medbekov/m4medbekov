@@ -2,7 +2,7 @@
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://cdn-www.comingsoon.net/assets/uploads/2022/02/batman-rpatz-618x680.jpg"/>
+<!-- <img align="right" width="400" alt="Shimarin" src="https://cdn-www.comingsoon.net/assets/uploads/2022/02/batman-rpatz-618x680.jpg"/> -->
 
 <h2> / about me /</h2>
   
