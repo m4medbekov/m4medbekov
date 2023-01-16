@@ -1,4 +1,4 @@
-<p align = center >Ruslan Mamedbekov</p>
+<p align = center><h1>Ruslan Mamedbekov</h1></p>
 
 <div>
 
