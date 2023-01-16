@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt text]([https://cdn.mos.cms.futurecdn.net/5vPndSdDicde7EwTyAtqjk.jpg](https://preview.redd.it/l8hgmco83wt71.jpg?width=640&crop=smart&auto=webp&s=05d889fdef56ba49821c7372a85da746472acdfa))
+![alt text](https://preview.redd.it/l8hgmco83wt71.jpg?width=640&crop=smart&auto=webp&s=05d889fdef56ba49821c7372a85da746472acdfa)
 <!--
 **m4medbekov/m4medbekov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
